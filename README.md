@@ -9,10 +9,11 @@
 -----
 
 Team member names and computing IDs: AAA(aaa) BBB(bbb)
-
+William (Kerr yun5pc)
 -----
 
 Exercise 2 comments:
+In my opinion a good fit of the data was achieved, with a chi2 near 1 of 0.828 and a high p-value of 0.883. 
 --
 
 
